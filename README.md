@@ -8,7 +8,7 @@ In this repo I created REST microservice using Node and Express to get the langu
 
 3- open your terminal
 
-4- write "npm i"    //you should make sure that you have node installed on your machine 
+4- write "npm i"                  //you should make sure that you have node installed on your machine 
 
 5- write "node server.js"  or "npm run server"
 
